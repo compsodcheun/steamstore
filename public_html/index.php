@@ -155,7 +155,7 @@
          <div class="row" id="gpu_goods6">
 
             <div class="row">
-             <h1 id="mu_head"><span class="glyphicon glyphicon-link"style="color:#000;margin-right:8px;color:red"></span>Steam URL</h1>
+             <h1 id="mu_head"><span class="glyphicon glyphicon-link"style="color:#000;margin-right:8px;color:red"></span>Steam URL Name</h1>
              <h4 style="color: white;">Example : <br>http://store.steampowered.com/app/271590/<br>http://store.steampowered.com/sub/64902/</h4>
 
               <form class="navbar-form navbar-left" method="get" action="./steamsearch.php" role="search_steam">
