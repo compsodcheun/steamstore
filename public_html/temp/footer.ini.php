@@ -1,29 +1,18 @@
-
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-md-12" id="footer">
-           <div class="container">
-             <div class="row" align="center">
-                <div class="col-xs-6">
-                 <h3 style="color:white;">#SteamStore</h3>
-                 <h5 style="color:white;margin-left:40px"> Facebook: <a href="https://www.facebook.com/SteamStores">SteamStore</a></h5>
-                 <h5 style="color:white;margin-left:40px"> Line:</h5>
-                 <h5 style="color:white;margin-left:40px">Copyright©2016</h5>
-               </div>
-               <div class="col-xs-5">
-                 <h3 style="color:white;">ContactUs</h3>
-                 <h5 style="color:white;margin-left:20px">Email:</h5>
-                 <h5 style="color:white;margin-left:20px">Tel:</h5>
-                 <h5 style="color:white;margin-left:20px">Poweredby:intA</h5>
-             </div>
-
-             </div>
-
-
-           </div>
+    <footer class="section white_color" id="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-6">
+            <h1>Contact&nbsp;</h1>
+            <p>Facebook: <a href="https://www.facebook.com/SteamStores">SteamStore</a></h5></p>
+          </div>
+          <div class="col-sm-6">
+            <h1>Steam Store</h1>
+            <p>Copyright © 2016 SteamStore.in.th</p>
+            <p>Powered by SteamStore.in.th</p>
+          </div>
         </div>
       </div>
-    </div>
+    </footer>
 
  <!-- Modals login -->
     <div class="modal fade login" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
